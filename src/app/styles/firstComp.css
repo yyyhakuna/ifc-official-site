@@ -1,0 +1,10 @@
+.blue-triangle::before {
+  content: "";
+  clip-path: polygon(0 0, 0 50%, 100% 50%);
+  width: 220px;
+  height: 80px;
+  background: #00ade4;
+  position: absolute;
+  top: -40px;
+  right: 80px;
+}
