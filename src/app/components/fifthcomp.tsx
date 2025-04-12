@@ -51,11 +51,11 @@ const FifthComp = () => {
           mercati e opportunità nei paesi in via di sviluppo.
         </div>
         <div className="sm:w-80 px-10 sm:px-0 text-center text-white text-xs font-normal font-ubnutu leading-none">
-          Nell&apos;anno fiscale 2024, la IFC ha impegnato la cifra record di 56
-          miliardi di dollari in aziende private e istituzioni finanziarie nei
-          paesi in via di sviluppo, sfruttando le soluzioni del settore privato
-          e mobilitando capitali privati ​​per creare un mondo libero dalla
-          povertà su un pianeta vivibile.
+          Nell&apos; anno fiscale 2024, la IFC ha impegnato la cifra record di
+          56 miliardi di dollari in aziende private e istituzioni finanziarie
+          nei paesi in via di sviluppo, sfruttando le soluzioni del settore
+          privato e mobilitando capitali privati ​​per creare un mondo libero
+          dalla povertà su un pianeta vivibile.
         </div>
       </div>
       <div className="grid sm:grid-cols-2  sm:gap-14 gap-6 mt-6 sm:mt-0">

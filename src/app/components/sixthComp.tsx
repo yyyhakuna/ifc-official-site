@@ -15,7 +15,7 @@ const Sixthcomp = () => {
           Guarda dove lavoriamo
         </div>
         <div className="sm:w-80 px-10 sm:px-0 text-center sm:text-left text-white text-xs font-normal font-ubnutu leading-none">
-          L&apos;impatto di IFC si estende a oltre 100 nazioni. Diamo potere
+          L&apos; impatto di IFC si estende a oltre 100 nazioni. Diamo potere
           agli imprenditori di tutto il mondo, trasformando idee audaci in
           motori di crescita inclusiva, creando milioni di posti di lavoro,
           migliorando la vita delle persone e trasformando le comunità.

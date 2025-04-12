@@ -27,19 +27,19 @@ const Card: React.FC<CardProps> = ({ img, title, desc }) => {
 const SecondComp = () => {
   const cardLists: CardProps[] = [
     {
-      img: "/secondcomp-img1.png",
+      img: "/secondComp-img1.png",
       title: "Cercare rifugio",
       desc: `Una startup tecnologica sta contribuendo a rendere la proprietà della
           casa una realtà per le persone in India che non hanno un accesso
           adeguato all'alloggio.`,
     },
     {
-      img: "/secondcomp-img2.png",
+      img: "/secondComp-img2.png",
       title: "Dare potere alle donne paraguaiane  nell'agroindustria",
       desc: `Le donne contribuiscono in modo significativo al settore agricolo paraguaiano, ma incontrano difficoltà nell'accesso a pari opportunità e risorse.`,
     },
     {
-      img: "/secondcomp-img3.png",
+      img: "/secondComp-img3.png",
       title: "Lorenzo Vitalle",
       desc: `Amministratore delegato della sede centrale europea (Italia) di American International Finance, focalizzato sullo sviluppo di investimenti nei mercati azionari, fondi, obbligazionari e delle criptovalute italiani.`,
     },
