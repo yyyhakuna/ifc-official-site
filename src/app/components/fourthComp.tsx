@@ -60,7 +60,7 @@ const FourthComp = () => {
     },
     {
       topImg: "/fourthComp-img3.png",
-      iconImg: "/fourthComp-icon1.svg",
+      iconImg: "/fourthComp-icon3.svg",
       title: "Prodotti e servizi",
       desc: "IFC collabora con i clienti per creare opportunità che aiutino il settore privato a mobilitare soluzioni e finanziamenti per risolvere le sfide dello sviluppo.",
     },
