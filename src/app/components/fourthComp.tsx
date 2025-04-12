@@ -59,7 +59,7 @@ const FourthComp = () => {
       desc: "Mettiamo a frutto le nostre risorse finanziarie, la nostra competenza tecnica, la nostra esperienza globale e il nostro pensiero innovativo per aiutare i nostri partner a superare le sfide finanziarie, operative e di altro tipo.",
     },
     {
-      topImg: "/fourthComp-img1.png",
+      topImg: "/fourthComp-img3.png",
       iconImg: "/fourthComp-icon1.svg",
       title: "Prodotti e servizi",
       desc: "IFC collabora con i clienti per creare opportunità che aiutino il settore privato a mobilitare soluzioni e finanziamenti per risolvere le sfide dello sviluppo.",
