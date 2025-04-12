@@ -15,10 +15,10 @@ const Sixthcomp = () => {
           Guarda dove lavoriamo
         </div>
         <div className="sm:w-80 px-10 sm:px-0 text-center sm:text-left text-white text-xs font-normal font-ubnutu leading-none">
-          L'impatto di IFC si estende a oltre 100 nazioni. Diamo potere agli
-          imprenditori di tutto il mondo, trasformando idee audaci in motori di
-          crescita inclusiva, creando milioni di posti di lavoro, migliorando la
-          vita delle persone e trasformando le comunità.
+          L&apos;impatto di IFC si estende a oltre 100 nazioni. Diamo potere
+          agli imprenditori di tutto il mondo, trasformando idee audaci in
+          motori di crescita inclusiva, creando milioni di posti di lavoro,
+          migliorando la vita delle persone e trasformando le comunità.
         </div>
       </div>
       <div className="sm:w-[475.47px] w-[93%] mx-auto sm:mx-0 mt-8 sm:mt-0 h-96 relative bg-neutral-700">
