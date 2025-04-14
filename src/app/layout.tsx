@@ -16,7 +16,7 @@ const geistSans = Geist({
 const ubuntu = Ubuntu({
   variable: "--font-ubnutu",
   subsets: ["latin"],
-  weight: ["400", "700", "500"],
+  weight: ["400", "700", "500", "300"],
 });
 
 export const metadata: Metadata = {

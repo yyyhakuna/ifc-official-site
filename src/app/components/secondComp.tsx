@@ -11,7 +11,7 @@ const Card: React.FC<CardProps> = ({ img, title, desc }) => {
     <div className="sm:w-[20vw] max-w-[400px] relative w-[80%] mx-auto">
       <img className="" src={img} />
 
-      <div className="w-[95%] translate-y-[-20px] bg-neutral-900 pt-5 px-4 pb-8">
+      <div className="w-[95%] translate-y-[-20px] bg-neutral-900 pt-5 px-4 pb-8 space-y-3">
         <div className=" text-white text-sm font-medium font-ubnutu ">
           {title}
         </div>
@@ -28,15 +28,13 @@ const SecondComp = () => {
   const cardLists: CardProps[] = [
     {
       img: "/secondComp-img1.png",
-      title: "Cercare rifugio",
-      desc: `Una startup tecnologica sta contribuendo a rendere la proprietà della
-          casa una realtà per le persone in India che non hanno un accesso
-          adeguato all'alloggio.`,
+      title: "An Energy-Efficiency Program in Ukraine Heats Up",
+      desc: `Halyna Djulai, an owner-resident and house manager in an apartment block on Lypy Street in Lviv, faced a problem that vexes most apartment owners in Ukraine’s big cities. `,
     },
     {
       img: "/secondComp-img2.png",
-      title: "Dare potere alle donne paraguaiane  nell'agroindustria",
-      desc: `Le donne contribuiscono in modo significativo al settore agricolo paraguaiano, ma incontrano difficoltà nell'accesso a pari opportunità e risorse.`,
+      title: "Solar Power Offers Armenia Greater Energy Security",
+      desc: `Armenia imports nearly all its gas—a level of dependence that poses a systemic challenge to the nation. Though the country has no domestic gas or nuclear resources, it does have one important asset: the sun. `,
     },
     {
       img: "/secondComp-img3.png",

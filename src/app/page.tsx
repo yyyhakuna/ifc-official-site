@@ -1,3 +1,4 @@
+import AdditionnalComp from "./components/additionalComp";
 import EndComp from "./components/endComp";
 import FifthComp from "./components/fifthcomp";
 import FirstComp from "./components/firstComp";
@@ -19,6 +20,7 @@ export default function Home() {
       <FifthComp />
       <Sixthcomp />
       <SeventhComp />
+      <AdditionnalComp />
       <EndComp />
     </div>
   );
